@@ -1,0 +1,10 @@
+C:\Users\53461\source\repos\jogodosnumeros\jogodosnumeros\bin\Debug\jogodosnumeros.exe.config
+C:\Users\53461\source\repos\jogodosnumeros\jogodosnumeros\bin\Debug\jogodosnumeros.exe
+C:\Users\53461\source\repos\jogodosnumeros\jogodosnumeros\bin\Debug\jogodosnumeros.pdb
+C:\Users\53461\source\repos\jogodosnumeros\jogodosnumeros\obj\Debug\jogodosnumeros.csproj.AssemblyReference.cache
+C:\Users\53461\source\repos\jogodosnumeros\jogodosnumeros\obj\Debug\jogodosnumeros.Form1.resources
+C:\Users\53461\source\repos\jogodosnumeros\jogodosnumeros\obj\Debug\jogodosnumeros.Properties.Resources.resources
+C:\Users\53461\source\repos\jogodosnumeros\jogodosnumeros\obj\Debug\jogodosnumeros.csproj.GenerateResource.cache
+C:\Users\53461\source\repos\jogodosnumeros\jogodosnumeros\obj\Debug\jogodosnumeros.csproj.CoreCompileInputs.cache
+C:\Users\53461\source\repos\jogodosnumeros\jogodosnumeros\obj\Debug\jogodosnumeros.exe
+C:\Users\53461\source\repos\jogodosnumeros\jogodosnumeros\obj\Debug\jogodosnumeros.pdb
